@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/subroto23/subroto23/blob/main/github-header-image.png?raw=true" width="100"/>
+  <img src="https://github.com/subroto23/subroto23/blob/main/github-header-image.png?raw=true"/>
 </div>
 
 
